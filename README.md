@@ -1,4 +1,4 @@
-Hi, I'm Adam.
+Hi!
 
 I'm self-educated programmer with a great dose of ambition. I like to know how the code works and improve my skills with each new project.
 I mainly work on the front-end side (React), constantly learning new technologies. Feel free to contact me.
