@@ -2,8 +2,7 @@ I'm self-educated programmer with a great dose of ambition. I like to know how t
 I mainly work on the front-end side (React), constantly learning new technologies. Feel free to contact me.
 
 - Typescript
-- HTML 5
-- CSS
+- HTML/CSS
 - JavaScript
 - React JS
 - Bootstrap v5
