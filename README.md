@@ -1,9 +1,8 @@
 Hi!
 
-I'm a programmer with a great dose of ambition. I like to know how the code works and improve my skills with each new project. 	
-Mainly I work on the front-end side (React), constantly learning new technologies. 
-
-Feel free to contact me.
+I'm a programmer with a great dose of ambition.
+I like to know how the code works and improve my skills with each new project. 
+Mainly I work on the front-end side, constantly learning new technologies.
 
 - Typescript
 - HTML/CSS
@@ -13,8 +12,8 @@ Feel free to contact me.
 - Visual Studio
 - GitHub/GitLab
 
-email - 
-  adam.kalcas2@gmail.com
+Feel free to contact me
+adam.kalcas2@gmail.com
 
 
   
