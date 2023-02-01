@@ -12,7 +12,7 @@ Mainly I work on the front-end side, constantly learning new technologies.
 - Visual Studio
 - GitHub/GitLab
 
-Feel free to contact me
+Feel free to contact me:
 adam.kalcas2@gmail.com
 
 
