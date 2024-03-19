@@ -7,10 +7,11 @@ Mainly I work on the front-end side, constantly learning new technologies.
   - React JS + TypeScript
   - React-Query
   - Axios
+  - Jira
   - Material UI, Bootstrap
   - Chat GPT
   - GitLab/GitHub
-  - Jira
+  
 
 Feel free to contact me:
 adam.kalcas2@gmail.com
